@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Bai1Phan2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2352BE43-F6DF-4A2A-98E9-D7754F179B54}|ConsoleApplication1\\ConsoleApplication1.vcxproj|E:\\Bai1Phan2\\ConsoleApplication1\\Cau1T2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2352BE43-F6DF-4A2A-98E9-D7754F179B54}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Cau1T2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cau1T2.cpp",
+              "DocumentMoniker": "E:\\Bai1Phan2\\ConsoleApplication1\\Cau1T2.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Cau1T2.cpp",
+              "ToolTip": "E:\\Bai1Phan2\\ConsoleApplication1\\Cau1T2.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\Cau1T2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T13:07:14.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
